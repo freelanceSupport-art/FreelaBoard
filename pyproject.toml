@@ -4,6 +4,7 @@ version = "0.2.0"
 description = "Local-first Windows desktop project, deadline, invoice, and payment tracker for freelancers."
 readme = "README.md"
 requires-python = ">=3.11"
+license = "MIT"
 authors = [
   { name = "freelanceSupport-art" }
 ]

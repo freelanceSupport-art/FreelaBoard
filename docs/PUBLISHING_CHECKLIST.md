@@ -6,6 +6,7 @@ Use this before pushing FreelaBoard to GitHub or creating a public release.
 
 - Confirm remote repository: https://github.com/freelanceSupport-art/FreelaBoard
 - Confirm the default branch is `main`.
+- Confirm `LICENSE` is present and uses the MIT License.
 - Keep `dist/`, `build/`, `.spec`, SQLite databases, and caches out of git.
 - Commit `assets/brand/Icon.png` as the canonical brand asset.
 - Commit `assets/generated/` icons when you want GitHub visitors to see the packaged branding assets.
@@ -27,6 +28,5 @@ Use this before pushing FreelaBoard to GitHub or creating a public release.
 
 ## Open Decisions
 
-- Choose a license before public promotion.
 - Decide whether releases should be versioned as `v0.2.0` or reset to `v0.1.0` for the first GitHub release.
 - Decide where user support requests should go.

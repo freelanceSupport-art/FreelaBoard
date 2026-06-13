@@ -75,4 +75,4 @@ FreelaBoard helps freelancers manage projects, deadlines, billing status, and pa
 
 ## License
 
-Choose and add a license before public promotion. See `docs/PUBLISHING_CHECKLIST.md`.
+FreelaBoard is released under the MIT License. See [LICENSE](LICENSE).
